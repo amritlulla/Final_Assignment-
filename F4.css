@@ -1,0 +1,50 @@
+body{
+  background-color: green;
+  background-image: url("https://www.freeiconspng.com/uploads/success-icon-7.png");
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1{
+  color: yellow;
+  font-size: 54px;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  border-style: double;
+}
+
+h2{
+  color: orange;
+  text-align: center;
+  text-decoration-line: underline;
+}
+ul{
+  color:white;
+  font-size: 20px;
+  font-style: normal;
+  text-align: normal;
+  font-family: sans-serinormal
+}
+ol{
+  color: white;
+  font-size: 24px;
+  font-style: normal;
+  text-align: justify;
+}
+p{
+  color: white;
+  font-size: 24px;
+  font-style: normal;
+  text-align: justify;
+}
+a{
+  color: orange;
+  font-size: 22px;
+  font-style: normal;
+  text-align: center;
+}
